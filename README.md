@@ -38,6 +38,6 @@
   `greeting = 'Hello World'`
 * Double quotes  
   `greeting = "Hello World"`
-* In some cases you may have to "escape" these characters to use them in a string.  
+* In some cases you may have to "escape" these characters to use them in a string, to do this use \\.  
   `example = 'The boy said \'wow\''`
 
