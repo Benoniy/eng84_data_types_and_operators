@@ -34,4 +34,10 @@
 ### Single or double quotes?  
   ***Both single quotes and double quotes can be used to define a string, which one is used is often defined***  
   ***by the specific situation and the developer's preference.***  
+* Single quotes  
+  `greeting = 'Hello World'`
+* Double quotes  
+  `greeting = "Hello World"`
+* In some cases you may have to "escape" these characters to use them in a string.  
+  `example = 'The boy said \'wow\''`
 
