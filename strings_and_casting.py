@@ -67,3 +67,8 @@ print(int(wage))
 
 # float() - casts an object to a float
 print(float(age))
+
+
+# f - is a formatting string, it allows you to easily insert variables into a print string
+print(f"first name: {first_name},  Last name: {last_name}, Age: {age}")
+print(f"{first_name=},  {last_name=}, {age=}")
