@@ -28,10 +28,10 @@
 * Greater than or Equal to  
   `print(a>=b)`  
 * Less than or Equal to  
-  `print(a<=>=b)`  
+  `print(a<=b)`  
   
 ## Strings and Casting  
-### Single or double quotes  
+### Single or double quotes?  
   ***Both single quotes and double quotes can be used to define a string, which one is used is often defined***  
   ***by the specific situation and the developer's preference.***  
 
