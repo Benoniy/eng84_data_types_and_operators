@@ -48,14 +48,16 @@ greetings = "Hello World"
 # Indexing starts from 0
 # H e l l o   W o r l d
 # 0 1 2 3 4 5 6 7 8 9 10
-print(greetings[0:5])
+
+print(greetings[0:5]) -> "Hello"
 ```  
 * Reverse Slice - A reverse slice works in much the same way as a simple slice but simply reverses the indexing
 ```python
 greetings = "Hello World"
 #   H   e  l  l  o     W  o  r  l  d
 # -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1
-print(greetings[-1])
+
+print(greetings[-1]) -> "d"
 ```  
 
 ### String Methods  
