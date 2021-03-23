@@ -47,3 +47,23 @@ print(greetings.capitalize())
 
 # replace() - Replaces a substring within a string with another substring
 print(greetings.replace("Hello", "World"))
+
+
+# Concatenation and casting
+first_name = "Elon"
+last_name = "Musk"
+age = 50
+wage = 10.9
+
+# To concatenate you can use + or ,
+print(first_name, last_name)  # However this automatically converts the arguments to strings
+print(first_name + " " + last_name)
+
+# str() - casts an object to a string
+print(str(age))
+
+# int() - casts an object to an int it will always round down a float
+print(int(wage))
+
+# float() - casts an object to a float
+print(float(age))
